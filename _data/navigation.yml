@@ -1,0 +1,27 @@
+
+- title: Blog
+  url: /
+- title: Categories
+  sublinks:
+    - title: Topic
+      url: /categories/
+    - title: Tags
+      url: /tags/
+    - title: Years
+      url: /years/
+# - title: Tags
+#   url: /tags/
+# - title: Years
+#   url: /years/
+# - title: Categories
+#   url: /categories/
+- title: About
+  url: /about/
+# - title: More
+#   sublinks:
+#     - title: FAQ
+#       url: /faq/
+#     - title: Docs
+#       url: /docs/
+- title: Home
+  url: https://retr0327.github.io/
