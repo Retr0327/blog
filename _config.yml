@@ -21,7 +21,7 @@ paginate: 8
 
 # Uncomment the below lines and set the Disqus shortname for enabling Disqus
 # 
-# disqus:
+disqus: retr0327
 
 # Jekyll
 # ======
