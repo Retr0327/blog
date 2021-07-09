@@ -1,4 +1,9 @@
 // Placeholder to allow customizing styles.
+* {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+
 .site-title:hover {
     text-decoration: none;
 }
